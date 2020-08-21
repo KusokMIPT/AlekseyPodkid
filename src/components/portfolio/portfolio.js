@@ -142,7 +142,7 @@ export default class Header extends Component {
                         </div>
                     </div>
                     <div id="modal-02" className="popup-modal mfp-hide">
-                        <img className="scale-with-grid" src="../resume/public/images/portfolio/modals/m-console.jpg" alt="" />
+                        {/*<img className="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />*/}
                         <div className="description-box">
                             <h4>Kaggle Solver</h4>
                             <p> The project devoted to process of searching the best model for kaggle competition.
@@ -157,7 +157,7 @@ export default class Header extends Component {
                         </div>
                     </div>
                     <div id="modal-03" className="popup-modal mfp-hide">
-                        <img className="scale-with-grid" src="../resume/public/images/portfolio/modals/m-judah.jpg" alt="" />
+                        {/*<img className="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />*/}
                         <div className="description-box">
                             <h4>Machine Learning and Data Analysis</h4>
                             <p>Fully completed three courses of online specialization ”Machine Learning and Data Science” on Coursera</p>
@@ -169,7 +169,7 @@ export default class Header extends Component {
                         </div>
                     </div>{/* modal-03 End */}
                     <div id="modal-04" className="popup-modal mfp-hide">
-                        <img className="scale-with-grid" src="../resume/public/images/portfolio/modals/m-intothelight.jpg" alt="" />
+                        {/*<img className="scale-with-grid" src="../resume/public/images/portfolio/modals/m-intothelight.jpg" alt="" />*/}
                         <div className="description-box">
                             <h4>Beerder</h4>
                             <p>Fully developed project for people to find a company to hit the bottle, with the same working principle as tinder has. </p>

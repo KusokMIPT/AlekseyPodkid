@@ -153,7 +153,7 @@ export default class Header extends Component {
                                 <h3>Tinkoff Bank</h3>
                                 <p className="info"> Business Analytics <span>•</span> <em className="date">June 2019 - September 2019</em></p>
                                 <p>
-                                    I coped with credit cards utilization, revealed how credit cards are affected by the timing of bank decisions.
+                                    I laboured with credit cards utilization, revealed how credit cards are affected by the timing of bank decisions.
                                     Also I worked with time series, using some machine learning models.
                                     Further, I was detecting outliers and searching the reasons for strange behavior.
                                     Finally, I made a prediction about the number of utilized credit cards on next months.

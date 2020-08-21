@@ -8,8 +8,9 @@ export default class Header extends Component {
                         <h1><span>Get In Touch.</span></h1>
                     </div>
                     <div className="ten columns">
-                        <p className="lead">Here you can contact me by the email, but please use social networks better.
-                            Fill free to ask or suggest anything you want!
+                        <p className="lead">
+                            Here you can contact me by the email, but use social networks better please.
+                            Feel free to ask or suggest anything you want!
                         </p>
                     </div>
                 </div>
