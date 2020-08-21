@@ -1,3 +1,8 @@
+## Useful res:
+
+main article: https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e
+(you can find how to deploy)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
