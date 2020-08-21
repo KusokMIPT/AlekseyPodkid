@@ -11,7 +11,7 @@ export default class Header extends Component {
                             <div className="columns portfolio-item">
                                 <div className="item-wrap">
                                     <a href="#modal-01" title>
-                                        <img alt="" src="/images/gas_sim.png" />
+                                        <img alt="" src="images/gas_sim.png" />
                                         <div className="overlay">
                                             <div className="portfolio-item-meta">
                                                 <h5>Simulation ideal gas</h5>

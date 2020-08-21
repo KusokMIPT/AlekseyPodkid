@@ -6,7 +6,7 @@ export default class Header extends Component {
                 <div className="row">
                     <div className="three columns">
                         {/*<img className="profile-pic" src = "./components/about/avatar" />*/}
-                        <img className="profile-pic" src="/images/avatar.jpg" />
+                        <img className="profile-pic" src="images/avatar.jpg" />
                     </div>
                     <div className="nine columns main-col" >
                         <h2>About Me</h2>
