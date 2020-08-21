@@ -21,11 +21,13 @@ export default class Header extends Component {
                         <h3>I'm a {resumeData.role} at <a href="https://www.bostongene.com">{resumeData.company} </a>company</h3>
                         <hr />
                         <ul className="social">
+                            <li><a href="https://github.com/KusokMIPT"><i className="fa fa-github" /></a></li>
                             <li><a href="https://teleg.run/kusokmipt"> <i className="fa fa-telegram" /></a></li>
                             <li><a href="https://vk.com/k_us_ok"> <i className="fa fa-vk" /></a></li>
                             <li><a href="mailto:alexp2019@gmail.com"> <i className="fa fa-envelope" /></a></li>
                             <li><a href="https://www.instagram.com/kusokmipt/"><i className="fa fa-instagram" /></a></li>
                             <li><a href="https://www.linkedin.com/in/aleksey-podkidyshev-04a103197/"><i className="fa fa-linkedin" /></a></li>
+
                         </ul>
                     </div>
                 </div>

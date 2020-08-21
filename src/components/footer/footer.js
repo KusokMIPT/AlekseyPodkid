@@ -6,6 +6,7 @@ export default class Header extends Component {
                 <div className="row">
                     <div className="twelve columns">
                         <ul className="social-links">
+                            <li><a href="https://github.com/KusokMIPT"><i className="fa fa-github" /></a></li>
                             <li><a href="https://teleg.run/kusokmipt"> <i className="fa fa-telegram" /></a></li>
                             <li><a href="https://vk.com/k_us_ok"> <i className="fa fa-vk" /></a></li>
                             <li><a href="mailto:alexp2019@gmail.com"> <i className="fa fa-envelope" /></a></li>
