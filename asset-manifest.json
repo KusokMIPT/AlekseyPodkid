@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlekseyPodkid/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AlekseyPodkid/static/js/main.b45d5341.chunk.js",
+    "main.js.map": "/AlekseyPodkid/static/js/main.b45d5341.chunk.js.map",
+    "runtime-main.js": "/AlekseyPodkid/static/js/runtime-main.277cf9d0.js",
+    "runtime-main.js.map": "/AlekseyPodkid/static/js/runtime-main.277cf9d0.js.map",
+    "static/js/2.31bc40bb.chunk.js": "/AlekseyPodkid/static/js/2.31bc40bb.chunk.js",
+    "static/js/2.31bc40bb.chunk.js.map": "/AlekseyPodkid/static/js/2.31bc40bb.chunk.js.map",
+    "index.html": "/AlekseyPodkid/index.html",
+    "precache-manifest.5270c8752b69561afb6eb3ce846d2ed9.js": "/AlekseyPodkid/precache-manifest.5270c8752b69561afb6eb3ce846d2ed9.js",
+    "service-worker.js": "/AlekseyPodkid/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AlekseyPodkid/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.31bc40bb.chunk.js.LICENSE.txt": "/AlekseyPodkid/static/js/2.31bc40bb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AlekseyPodkid/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.277cf9d0.js",
+    "static/js/2.31bc40bb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b45d5341.chunk.js"
+  ]
+}
