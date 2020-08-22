@@ -29,7 +29,7 @@ export default class Header extends Component {
                             </div>
                             <div className="columns download">
                                 <p>
-                                    <a href="#" className="button"><i className="fa fa-download" />Download Resume</a>
+                                    <a href="https://drive.google.com/file/d/1M5A5B0bZ01ugG1M2rJ6XmRfi4iyYdQcr/view?usp=sharing" className="button"><i className="fa fa-download" />Download Resume</a>
                                 </p>
                             </div>
                         </div>
