@@ -11,9 +11,8 @@ export default class Header extends Component {
                     <div className="nine columns main-col" >
                         <h2>About Me</h2>
                         <p>I have found myself in machine learning and now I enjoy developing myself in this area.
-                            Especially, I immerse myself in deep learning and take relevant courses at the University and online platforms.
-                            Moreover I work with NLP tasks in biological company. Being an entrepreneurial at heart,
-                            I always want more and try hard to become better.
+                            Especially, I immerse myself in deep learning and take relevant courses at the university and online platforms.
+                            Moreover, I work with NLP tasks in a biological company. Being entrepreneurial at heart, I always want more and try hard to become better.
                         </p>
                         <div className="row">
                             <div className="columns contact-details">

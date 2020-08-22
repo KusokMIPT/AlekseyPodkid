@@ -145,9 +145,8 @@ export default class Header extends Component {
                         {/*<img className="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />*/}
                         <div className="description-box">
                             <h4>Kaggle Solver</h4>
-                            <p> The project devoted to process of searching the best model for kaggle competition.
-                                These solution designed to reduce time spent on choosing a model, going through the loop of all model from sklearn and several from Tenserflow and Keras
-                                libraries.
+                            <p> The project devoted to the process of searching the best model for Kaggle competition.
+                                These solution designed to reduce time spent on choosing a model, going through the loop of all model from sklearn and several from TensorFlow and Keras libraries.
                             </p>
                             <span className="categories"><i className="fa fa-tag" />kaggle, ml, python</span>
                         </div>

@@ -57,9 +57,8 @@ export default class Header extends Component {
                             <h4>Moscow Institute of Physics and Technology. </h4>
                             <h6><p className="info"> Bachelor Applied mathematics and Computer science<span>•</span> <em className="date"> September 2017 - July 2021 (now attending)</em></p></h6>
                             <p>MIPT is almost sure the best Russian technical university now.
-                                Education here is combined from the poweful math and voluminous practical IT experience.
-                                Some interesting of them(Mathematics): Mathematical optimization, Applied Statistics and Data analysis,
-                                Probability Theory, Measure Theory.
+                                Education here is combined from the powerful math and voluminous practical IT experience.
+                                Some interesting of them(Mathematics): Mathematical optimization, Applied Statistics and Data Analysis, Probability Theory, Measure Theory.
                                 Also, Computer Science: Machine Learning, DL in NLP, C++, Concurrency, Distributed and Parallel Computing.
                             </p>
                     </div>
@@ -144,7 +143,7 @@ export default class Header extends Component {
                                 <p className="info">Developer <span>•</span> <em className="date">June 2019 - now attending</em></p>
                                 <p>
                                     'BostonGene' is a company that guides you through all the innovative and classical treatments, helping cancer patients worldwide.
-                                    I work in a team that develop solution for auto-recognition of articles with corresponding topic.
+                                    I work in a team that develops a solution for auto-recognition of articles with the corresponding topic.
                                 </p>
                             </div>
                         </div> {/* item end */}
@@ -154,8 +153,8 @@ export default class Header extends Component {
                                 <p className="info"> Business Analytics <span>•</span> <em className="date">June 2019 - September 2019</em></p>
                                 <p>
                                     I laboured with credit cards utilization, revealed how credit cards are affected by the timing of bank decisions.
-                                    Also I worked with time series, using some machine learning models.
-                                    Further, I was detecting outliers and searching the reasons for strange behavior.
+                                    Also, I worked with a time series, using some machine learning models.
+                                    Further, I was detecting outliers and searching for the reasons for strange behaviour.
                                     Finally, I made a prediction about the number of utilized credit cards on next months.
                                 </p>
                             </div>
