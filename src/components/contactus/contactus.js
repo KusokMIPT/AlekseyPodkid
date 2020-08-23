@@ -54,7 +54,7 @@ export default class Header extends Component {
                         <div className="widget widget_contact">
                             <h4>Address and Phone</h4>
                             <p className="address">
-                                Podkidyshev alexey<br />
+                                Podkidyshev Aleksey<br />
                                 Institutskiy Pereulok, 6A <br />
                                 Moscow Dolgoprudny, 141701<br />
                                 <span>+7 (925) 378-38-43</span>
