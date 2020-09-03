@@ -214,6 +214,7 @@ export default class Header extends Component {
                         <ul id="skills2">
                             <li>CatBoost</li>
                             <li>XGBoost</li>
+                            <li>Pandas</li>
                             <li>Sklearn</li>
                             <li>Scipy</li>
                             <li>Statsmodels</li>
@@ -236,6 +237,7 @@ export default class Header extends Component {
                         <ul id="skills2">
                             <li>Jupyter</li>
                             <li>Docker</li>
+                            <li>Linux</li>
                             <li>Bash</li>
                             <li>Git</li>
                             <li>MPI\OpenMP</li>
