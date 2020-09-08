@@ -246,6 +246,17 @@ export default class Header extends Component {
                         </ul>
                     </div>
 
+                    <div className="row">
+                        <h1>Math disciplines: </h1>
+                        <ul id="skills2">
+                            <li>Mathematical statistics</li>
+                            <li>Probability theory</li>
+                            <li>Optimization method</li>
+                            <li>Set theory</li>
+                            <li>Classical higher mathematics</li>
+                        </ul>
+                    </div>
+
                 </div>
 
             </section>
