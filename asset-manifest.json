@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AlekseyPodkid/static/css/main.5f361e03.chunk.css",
-    "main.js": "/AlekseyPodkid/static/js/main.80caea2f.chunk.js",
-    "main.js.map": "/AlekseyPodkid/static/js/main.80caea2f.chunk.js.map",
+    "main.js": "/AlekseyPodkid/static/js/main.362a8e2d.chunk.js",
+    "main.js.map": "/AlekseyPodkid/static/js/main.362a8e2d.chunk.js.map",
     "runtime-main.js": "/AlekseyPodkid/static/js/runtime-main.277cf9d0.js",
     "runtime-main.js.map": "/AlekseyPodkid/static/js/runtime-main.277cf9d0.js.map",
     "static/js/2.4c2fc2fd.chunk.js": "/AlekseyPodkid/static/js/2.4c2fc2fd.chunk.js",
     "static/js/2.4c2fc2fd.chunk.js.map": "/AlekseyPodkid/static/js/2.4c2fc2fd.chunk.js.map",
     "index.html": "/AlekseyPodkid/index.html",
-    "precache-manifest.f35fa7b6502bddd044759339d261ce82.js": "/AlekseyPodkid/precache-manifest.f35fa7b6502bddd044759339d261ce82.js",
+    "precache-manifest.d5885c1822a28a151dea6de6692684c3.js": "/AlekseyPodkid/precache-manifest.d5885c1822a28a151dea6de6692684c3.js",
     "service-worker.js": "/AlekseyPodkid/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/AlekseyPodkid/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.4c2fc2fd.chunk.js.LICENSE.txt": "/AlekseyPodkid/static/js/2.4c2fc2fd.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.277cf9d0.js",
     "static/js/2.4c2fc2fd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.80caea2f.chunk.js"
+    "static/js/main.362a8e2d.chunk.js"
   ]
 }
