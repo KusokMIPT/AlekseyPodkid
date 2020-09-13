@@ -150,7 +150,7 @@ export default class Header extends Component {
                         <div className="row item">
                             <div className="twelve columns">
                                 <h3>Mathematical Statistics, MIPT</h3>
-                                <p className="info">UNDERGRADUATE TEACHING ASSISTANT <span>•</span> <em className="date">September 2020 - until now</em></p>
+                                <p className="info">Undergraduate teaching assistant <span>•</span> <em className="date">September 2020 - until now</em></p>
                                 <p>
                                     My duties as an assistant are to help the headteacher in designing syllabus and course assignments in Python. Instructing and inspiring students, reviewing workshop and theoretical homework.
                                 </p>
