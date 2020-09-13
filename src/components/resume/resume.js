@@ -140,10 +140,19 @@ export default class Header extends Component {
                         <div className="row item">
                             <div className="twelve columns">
                                 <h3>BostonGene</h3>
-                                <p className="info">Developer <span>•</span> <em className="date">June 2019 - now attending</em></p>
+                                <p className="info">Developer <span>•</span> <em className="date">June 2020 - until now</em></p>
                                 <p>
                                     'BostonGene' is a company that guides you through all the innovative and classical treatments, helping cancer patients worldwide.
                                     I work in a team that develops a solution for auto-recognition of articles with the corresponding topic.
+                                </p>
+                            </div>
+                        </div> {/* item end */}
+                        <div className="row item">
+                            <div className="twelve columns">
+                                <h3>Mathematical Statistics, MIPT</h3>
+                                <p className="info">UNDERGRADUATE TEACHING ASSISTANT <span>•</span> <em className="date">September 2020 - until now</em></p>
+                                <p>
+                                    My duties as an assistant are to help the headteacher in designing syllabus and course assignments in Python. Instructing and inspiring students, reviewing workshop and theoretical homework.
                                 </p>
                             </div>
                         </div> {/* item end */}
